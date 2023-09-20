@@ -1,0 +1,14 @@
+---
+    title: Лекция 1. Математика
+    description: 
+    date: '21'
+    author: ХЗ
+    published: false
+---
+# {title}
+{author}
+
+
+$$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
