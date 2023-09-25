@@ -8,7 +8,7 @@
 <h1>Каталог лекций КузГТУ</h1>
 <p>
 	Этот проект был создан, чтобы обеспечить удобный доступ к лекциям. <a
-		href="https://github.com/LeFFaQ/">Подробнее тут</a
+		href="https://github.com/LeFFaQ/svelte-lecture-catalog">Подробнее тут</a
 	>
 </p>
 
