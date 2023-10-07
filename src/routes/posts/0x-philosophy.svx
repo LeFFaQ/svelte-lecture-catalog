@@ -5,7 +5,6 @@
     author: Яцевич М.Ю.
     published: true
 ---
-# {title} {new Date(date).toLocaleDateString()}. {author}
 
 <script lang="ts">
     import { base } from '$app/paths'

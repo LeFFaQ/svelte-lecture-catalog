@@ -4,6 +4,7 @@ import rehypeKatex from 'rehype-katex-svelte'
 import relativeImages from 'mdsvex-relative-images'
 
 const config = defineConfig({
+	//layout: 'src/lib/components/layout.svelte',
 	extensions: ['.svelte.md', '.md', '.svx'],
 
 	smartypants: {

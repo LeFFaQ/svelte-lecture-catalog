@@ -9,5 +9,8 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content={data.meta.title} />
 </svelte:head>
+<div class="container">
+	<h1>{data.meta.title} {new Date(data.meta.date).toLocaleDateString()}. {data.meta.author}</h1>
 
-<svelte:component this={data.content} />
+	<svelte:component this={data.content} />
+</div>

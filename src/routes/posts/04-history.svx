@@ -5,8 +5,6 @@
     author: Бутьян
     published: true
 ---
-# {title} {new Date(date).toLocaleDateString()}. {author}
-
 Рассматриваемый период: 1132 - 1553 гг.
 
 ### Феодальная раздробленность на Руси прошла в два этапа:
