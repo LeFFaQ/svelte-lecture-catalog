@@ -32,5 +32,8 @@
 		"vite": "^4.4.2"
 	},
 	"type": "module",
-	"module": "index.ts"
+	"module": "index.ts",
+	"dependencies": {
+		"remark-unwrap-images": "^4.0.0"
+	}
 }

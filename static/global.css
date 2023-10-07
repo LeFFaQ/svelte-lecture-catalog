@@ -38,6 +38,10 @@ li {
 a {
     color: #42a5f5;
 }
+img {
+    width: 100%;
+    height: auto;
+}
 
 /* Mobile */
 .container {

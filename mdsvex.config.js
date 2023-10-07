@@ -2,6 +2,7 @@ import { defineMDSveXConfig as defineConfig } from 'mdsvex'
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex-svelte'
 import relativeImages from 'mdsvex-relative-images'
+import remarkUnwrapImages from 'remark-unwrap-images'
 
 const config = defineConfig({
 	//layout: 'src/lib/components/layout.svelte',
@@ -11,7 +12,7 @@ const config = defineConfig({
 		dashes: 'oldschool'
 	},
 
-	remarkPlugins: [remarkMath, relativeImages],
+	remarkPlugins: [remarkMath, relativeImages, remarkUnwrapImages],
 	rehypePlugins: [rehypeKatex]
 })
 
