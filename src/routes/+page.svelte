@@ -15,7 +15,9 @@
 	{#if data.posts.length != 0}
 		{#each data.posts as post}
 			<li>
-				<a href="{base}/{post.slug}">{post.title}. {post.author}, {new Date(post.date).toLocaleDateString}</a>
+				<a href="{base}/{post.slug}"
+					>{post.title}. {post.author}, {new Date(post.date).toLocaleDateString()}</a
+				>
 			</li>
 		{/each}
 	{:else}
