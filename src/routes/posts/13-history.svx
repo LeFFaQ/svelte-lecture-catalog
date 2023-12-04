@@ -2,7 +2,7 @@
   title: История России. Первая мировая война 1914-1918 г.
   description: я не знаю
   author: Бутьян
-  date: 2023-17-11
+  date: 2023-11-17
   published: true
 ---
 

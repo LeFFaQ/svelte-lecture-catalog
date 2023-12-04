@@ -2,7 +2,7 @@
   title: Развитие российской империи в 1917 г.
   description: я не знаю
   author: Бутьян
-  date: 2023-20-11
+  date: 2023-11-20
   published: true:
 ---
 
