@@ -3,7 +3,7 @@
   description: 
   author: Генератор Базы (Илюшин)
   date: 2023-12-01
-  published: true:
+  published: true
 ---
 ### Дисклеймер: Лекция большая, сокращайте  
 
